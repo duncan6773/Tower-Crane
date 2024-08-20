@@ -1,0 +1,5 @@
+####Converting the UI file to actual code
+
+C:\Users\dunca\Documents\Python test\pyQT_Trials>pyuic5 -x youtubeTrial1.ui -o youtubeTrial.py
+
+>pyuic5 -x craneGUI_option3.ui -o craneGUI_option3.py
