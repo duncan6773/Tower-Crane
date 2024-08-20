@@ -1,3 +1,5 @@
+# Quick Note
+This repository is a copy of a repository on my educational Github account. Since I have graduated college, I had to copy the main branch of repository over or risk loosing all the data. If you have any questions about the repository, or its history please reach out to me by email 
 # TowerCrane
 This Github hosts the code for the Tower Crane System. While there are multiple folders in this repository, the two that matter the most are Arduino Code and Crane GUI
 
